@@ -57,6 +57,7 @@ a:hover {
 .logo {
   margin: 1;
 }
+
 .logo:hover {
   cursor: default;
 }
